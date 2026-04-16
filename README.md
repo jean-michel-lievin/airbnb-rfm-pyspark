@@ -197,9 +197,9 @@ This project is under the **MIT License**. See [LICENSE](LICENSE) for more detai
 **Jean-Michel LIEVIN**  
 Data & IA Enthusiast | Full Stack Senior (10+ years)
 
-- 🌐 Portfolio: [github.com/tabodino](https://github.com/tabodino)
+- 🌐 Portfolio: [jean-michel-lievin.github.io](https://jean-michel-lievin.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/jean-michel-lievin](https://www.linkedin.com/in/jean-michel-lievin)
-- 📧 Email: [jeanmichel.liev1@gmail.com](mailto:jeanmichel.liev1@gmail.com)
+- 📧 Email: [jmichel.lievin@gmail.com](mailto:jmichel.lievin@gmail.com)
 
 ---
 
@@ -208,4 +208,4 @@ Data & IA Enthusiast | Full Stack Senior (10+ years)
 For issues and questions, open an issue on GitHub.
 
 [![Support Email](https://img.shields.io/badge/support-email-blue?logo=gmail)](mailto:jeanmichel.liev1@gmail.com)
-[![Open an Issue](https://img.shields.io/badge/GitHub-Issues-blue?logo=github)](https://github.com/tabodino/airbnb-rfm-pyspark/issues)
+[![Open an Issue](https://img.shields.io/badge/GitHub-Issues-blue?logo=github)](https://github.com/jean-michel-lievin/airbnb-rfm-pyspark/issues)
